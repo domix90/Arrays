@@ -8,3 +8,15 @@ last element of array doesn't need comma, all other elements should be separated
 
 
 ];
+
+
+/* To access single element of an array we use an index value. 
+
+var shoppingList = ['dominik', 10, true, 'battery'];
+
+0. 'dominik'
+1. 10
+2. true
+3. 'battery'
+
+*/
