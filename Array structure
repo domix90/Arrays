@@ -1,0 +1,10 @@
+
+
+var shoppingList = [
+
+/* inside goes sting, numbers, boolean values
+
+last element of array doesn't need comma, all other elements should be separated with a comma. */
+
+
+];
